@@ -4,7 +4,7 @@
     "../server/index.spa.html",
     "../server/index.ssr.html",
     "LICENSES",
-    "app.3ed734b.js",
+    "app.dc505bd.js",
     "content/plugin.js.5580633.js",
     "img/404.7b6c882.svg",
     "img/contact.1f24a43.jpg",
@@ -23,7 +23,7 @@
   "initial": [
     "runtime.2185208.js",
     "node_modules/commons.4cc7ec8.js",
-    "app.3ed734b.js"
+    "app.dc505bd.js"
   ],
   "async": [
     "content/plugin.js.5580633.js",
@@ -188,7 +188,7 @@
       3,
       5
     ],
-    "1150221d": [
+    "652ad3db": [
       3,
       5
     ],
@@ -200,7 +200,7 @@
       3,
       5
     ],
-    "44075ee6": [
+    "31d7024b": [
       3,
       5
     ],
@@ -1185,7 +1185,7 @@
   },
   "assetsMapping": {
     "1a3ae26b": [
-      "app.3ed734b.js"
+      "app.dc505bd.js"
     ],
     "be5ea2d0": [
       "content/plugin.js.5580633.js"
