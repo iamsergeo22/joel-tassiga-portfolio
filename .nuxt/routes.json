@@ -1,0 +1,30 @@
+[
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/home/serge/Desktop/joel-tassiga-portfolio/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_6c2a136e"
+  },
+  {
+    "name": "projet",
+    "path": "/projet",
+    "component": "/home/serge/Desktop/joel-tassiga-portfolio/pages/projet.vue",
+    "chunkName": "pages/projet",
+    "_name": "_2ebbd3b3"
+  },
+  {
+    "name": "posts-slug",
+    "path": "/posts/:slug?",
+    "component": "/home/serge/Desktop/joel-tassiga-portfolio/pages/posts/_slug.vue",
+    "chunkName": "pages/posts/_slug",
+    "_name": "_2aaa54f7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/serge/Desktop/joel-tassiga-portfolio/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_55dbfb8a"
+  }
+]
