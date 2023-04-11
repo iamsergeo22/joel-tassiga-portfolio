@@ -1,26 +1,26 @@
 <template>
-  <div>
-  <div class="bg-gray-100 min-h-screen flex flex-col justify-center items-center">
-    <div class="w-full max-w-4xl mx-auto flex flex-col justify-center items-center mt-16">
-      <img src="../assets/img/joeltassiga.jpeg" alt="Joel Tassiga" class="rounded-full w-48 h-48 object-cover">
-      <h1 class="text-4xl font-bold mt-8">Hi, I'm Joel Tassiga</h1>
-      <h2 class="text-2xl font-medium mt-2 mb-8 text-blue-600 italic">Digital Marketer and Web Developer</h2>
-      <div class="bg-white rounded-lg shadow-lg p-8">
-        <p class="text-gray-800 text-lg leading-relaxed text-justify">
-          I am a highly skilled digital marketer and web developer with over 5 years of experience in creating effective digital strategies and building responsive websites. I have a deep understanding of the latest technologies and trends in the industry, and I am constantly learning and exploring new ideas to improve my skills and knowledge.
-        </p>
-        
+  <div class="bg-gray-100 min-h-screen">
+    <div class="container mx-auto py-16 flex flex-col lg:flex-row items-center justify-around gap-8">
+      
+      <div class="mt-8 lg:mt-0">
+        <h1 class="text-4xl font-bold mb-2">Hi, I'm Joel Tassiga</h1>
+        <h2 class="text-2xl font-medium mb-8 text-blue-600 italic">Digital Marketer and Web Developer</h2>
+        <div class="bg-white rounded shadow hover:shadow-lg p-8  lg:w-3/4">
+          <p class="text-gray-800 text-lg leading-relaxed text-justify">
+
+            I am Massama Joël TASSIGA, a digital marketer and web developer with a variety of skills. In addition to my background in web development, I am also an event planner with strong critical thinking skills. I am experienced in both front-end and back-end development, as well as using MS Excel and PowerPoint for data analysis and presentation. My digital marketing skills include expertise in Google Data Analytics, meta social media marketing, Google Digital Marketing, and e-commerce. I am proficient in HTML/CSS/Javascript and have experience in project management.
+
+          </p>
+          <a href="/CV_Togo_Massama-Joel_TASSIGA.pdf" target="blank" class="bg-blue-500  shadow hover:shadow-lg hover:text-white flex mt-4 mb-4 w-1/2 justify-center items-center hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded">
+            Download CV
+          </a>
+        </div>
       </div>
 
-      <button href="/RW_CV_Togo_SergeAnan_TASSIGA.pdf" class="bg-blue-500 flex mt-4 mb-4 justify-center
-            items-center hover:bg-blue-600 text-white font-semibold py-2 px-4 rounded">
-          Download CV
-  </button>
-      
+      <div class="">
+        <img src="../assets/img/joeltassiga.jpeg" alt="Joel Tassiga" class="rounded-full">
+      </div>
     </div>
-
-   
-  </div>
 
 
   <div class="container mx-auto px-4 py-8 pb-8">

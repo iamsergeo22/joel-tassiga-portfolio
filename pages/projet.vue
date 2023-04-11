@@ -6,30 +6,30 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div class="bg-white shadow-lg rounded-lg overflow-hidden">
             <img src="../assets/img/jumba-capt1.PNG"
-            alt="" class="w-full h-48 object-cover">
+            alt="" class="w-full">
       <div class="p-6">
-        <h2 class="text-lg font-bold mb-4">Jumba Finder</h2>
-        <p class="text-gray-700 leading-relaxed mb-4">Description of project 1</p>
-        <p class="text-gray-600">Technologies used: Tailwind CSS, Nuxt.js</p>
+        <h2 class=" font-bold mb-4 text-2xl text-blue-600">Jumba Finder</h2>
+        <p class="text-black mb-4 text-justify">Jumba is a platform that focuses on real estate and tourism. It helps tourists easily book apartments and hotels for their travels. Jumba was built using WordPress, Google Analytics, and Elementor.</p>
+        <p class="text-black text-md italic"> <strong class="text-blue-600 text-xl">Technologies used:</strong> WordPress, Elementor, PHP, CSS, GoogleAnalytics</p>
         <a href="http://jumbafinder.com/" target="blank" class="block mt-4 text-blue-600 hover:text-blue-800  font-bold">View project</a>
       </div>
     </div>
     <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-      <img src="../assets/img/jumba-capt1.PNG" alt="" class="w-full h-48 object-cover">
+      <img src="../assets/img/ova-capt1.PNG" alt="" class="w-full">
       <div class="p-6">
-        <h2 class="text-lg font-bold mb-4">Jumba Finder</h2>
-        <p class="text-gray-700 leading-relaxed mb-4">Description of project 2</p>
-        <p class="text-gray-600">Technologies used: Tailwind CSS, Nuxt.js</p>
-        <a href="http://jumbafinder.com/" target="blank" class="block mt-4 text-blue-600 hover:text-blue-800  font-bold">View project</a>
+        <h2 class=" font-bold mb-4 text-2xl text-blue-600">Ova Africa</h2>
+        <p class="text-black mb-4 text-justify">Ova-africa is an online clothing company that specializes in providing a wide range of products to customers.. The website was built using Wordpress, Elementor, and the changes made to it involved editing a few things.</p>
+        <p class="text-black text-md italic"> <strong class="text-blue-600 text-xl">Technologies used:</strong>  WordPress, Elementor, PHP, CSS, GoogleAnalytics, Woocommerce</p>
+        <a href="http://ova-africa.com/" target="blank" class="block mt-4 text-blue-600 hover:text-blue-800  font-bold">View project</a>
       </div>
     </div>
     <div class="bg-white shadow-lg rounded-lg overflow-hidden">
-      <img src="../assets/img/jumba-capt1.PNG" alt="" class="w-full h-48 object-cover">
+      <img src="../assets/img/whatsapp-web-clone.png" alt="" class="w-full">
       <div class="p-6">
-        <h2 class="text-lg font-bold mb-4">Jumba Finder</h2>
-        <p class="text-gray-700 leading-relaxed mb-4">Description of project 3</p>
-        <p class="text-gray-600">Technologies used: Tailwind CSS, Nuxt.js</p>
-        <a href="http://jumbafinder.com/" target="blank" class="block mt-4 text-blue-600 hover:text-blue-800  font-bold">View project</a>
+        <h2 class=" font-bold mb-4 text-2xl text-blue-600">Whatsapp web clone</h2>
+        <p class="text-black mb-4 text-justify">WhatsApp Web Clone is a project that aims to recreate the functionality of the WhatsApp messaging app on the web. The project is built using a combination of technologies, including Nuxt, TailwindCSS.</p>
+        <p class="text-black text-md italic"> <strong class="text-blue-600 text-xl">Technologies used:</strong>  Tailwind CSS, Nuxt.js</p>
+        <a href="https://whatsappwebclone.jumbafinder.com/" target="blank" class="block mt-4 text-blue-600 hover:text-blue-800  font-bold">View project</a>
       </div>
     </div>
     <!-- Add more projects as needed -->
